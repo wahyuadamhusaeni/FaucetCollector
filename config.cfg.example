@@ -1,0 +1,4 @@
+[Browser]
+browser-mode = headless
+driver-path = /home/adamatuh/chromedriver
+browser-binary-location = /usr/bin/brave-browser
